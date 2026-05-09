@@ -1,0 +1,7 @@
+interface:
+  display_name: "Origin Lab"
+  short_description: "Automate Origin figures and exports"
+  default_prompt: "Use $origin-lab to create or edit an Origin figure from local data, export publication-ready images, and save an editable OPJU project."
+
+policy:
+  allow_implicit_invocation: true
